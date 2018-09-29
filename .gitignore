@@ -1,0 +1,13 @@
+.git
+
+.vscode/settings.json
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
